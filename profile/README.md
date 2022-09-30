@@ -9,7 +9,7 @@ Seems interesting? Want to collaborate?
 :mailbox_with_mail: Reach us via:
 
 * :email: Email: hello@mtechzilla.com.
-* :speech_balloon: Dm on twitter id @mtechzilla.
+* :speech_balloon: Dm on twitter @mtechzilla.
 
 
 
