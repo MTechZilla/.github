@@ -1,6 +1,6 @@
 ## Hi there :wave:
 
-MTechZilla is a development agency that specializes in website 🌐 and app 📱 development. Our team of experienced developers, designers 🎨, and project managers 📊 work together to deliver high-quality, custom solutions to our clients.
+MTechZilla is a software development agency that specializes in website 🌐 and app 📱 development. Our team of experienced developers, designers 🎨, and project managers 📊 work together to deliver high-quality, custom solutions to our clients.
 
 ### 💼 Our Services
 
