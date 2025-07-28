@@ -1,39 +1,47 @@
-## Hi there :wave:
+# 👋 Welcome to MTechZilla
 
-MTechZilla is a software development agency that specializes in website 🌐 and app 📱 development. Our team of experienced developers, designers 🎨, and project managers 📊 work together to deliver high-quality, custom solutions to our clients.
+**Building AI-powered software that users love, trusted by funded startups worldwide**
 
-### 💼 Our Services
+We're a team of passionate engineers, designers, qas and pms who turn startup ideas into scalable, market-ready applications. Since 2021, we've shipped products used by **1M+ people** and helped our clients raise **$10M+ in funding**.
 
-We offer a wide range of services to help our clients achieve their goals. Our services include:
+## 🚀 What We Do
 
-* Website development 🌐: We build custom websites using the latest web technologies to create fast, responsive, and user-friendly sites.
+- 🌐 **Web Development** - React, Next.js, Node.js applications that scale
+- 📱 **Mobile Apps** - React Native (iOS, Android, and cross-platform solutions)  
+- 🤖 **AI Development** - Smart features that actually solve problems
+- ☁️ **Cloud Solutions** - AWS-powered infrastructure that grows with you
+- 🔄 **Legacy Modernization** - Breathing new life into existing systems
 
-* App development 📱: Our team has expertise in developing both iOS and Android apps using native or hybrid frameworks.
+## 🛠️ Tech Stack
 
-* UI/UX design 🎨: We provide UI/UX design services to ensure that the websites and apps we build are aesthetically pleasing and easy to use.
+**Frontend:** React • Next.js • TypeScript • Tailwind CSS • Figma  
+**Backend:** Node.js • Express • REST APIs  
+**Mobile:** React Native
+**Cloud:** AWS • Docker • Kubernetes • Serverless  
+**Database:** PostgreSQL • MongoDB • Redis • DynamoDB  
+**AI/ML:** TensorFlow • OpenAI • LangChain • Custom Models
 
-### 🚀 Our Process
+## 🏭 Industries We Serve
 
-We follow a proven development process that ensures that our clients are involved every step of the way. Our process includes:
+🌱 Renewable Energy • ✈️ Travel & Hospitality • ⚡ Electric Vehicles  
+🏠 Real Estate • 🛡️ Insurance • 📚 Education • 🏛️ Government
 
-* Discovery 🕵️‍♂️: We start by understanding our clients' goals, target audience, and technical requirements.
+## 📊 By The Numbers
 
-* Planning 📅: We create a detailed project plan that outlines the timeline, budget, and scope of work.
+- **95%** Project Success Rate
+- **4 weeks** To First Working MVO
+- **1 Week** Project Kickoff Time
+- **1M+** People Using Applications We Developed
 
-* Design 🎨: Our design team creates wireframes and prototypes to help clients visualize their website or app.
+## 🤝 Work With Us
 
-* Development 👨‍💻: We build the website or app using the latest technologies and development frameworks.
+Whether you need a dedicated engineering team, want to extend your development capacity, or have a specific technical challenge - we're here to help turn your vision into reality.
 
-* Testing 🕵️‍♀️: We rigorously test the website or app to ensure that it is bug-free and meets all technical requirements.
+**Ready to build something amazing?** 
 
-* Launch 🚀: We launch the website or app and provide ongoing support to ensure its success.
+🌐 [mtechzilla.com](https://www.mtechzilla.com)  
+💼 [LinkedIn](https://in.linkedin.com/company/mtechzilla)  
+📧 sales@mtechzilla.com
 
-### 👥 Our Team
-
-Our team consists of experienced developers, designers 🎨, and project managers 📊 who have worked on a wide range of projects. We are passionate about technology and are committed to delivering high-quality solutions that exceed our clients' expectations.
-
-### 📞 Contact Us
-
-To get in touch with us, please visit our contact page on our website using this [link](https://mtechzilla.com/contact?utm_source=github&utm_medium=readme&utm_campaign=contact).
-
-Thank you for considering MTechZilla for your development needs!
+---
+*From MVP to millions of users - we build the software that powers your growth* 🚀
