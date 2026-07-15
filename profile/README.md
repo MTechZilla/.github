@@ -1,47 +1,55 @@
-# 👋 Welcome to MTechZilla
+# Software Development Company for Product & Engineering Teams
 
-**Building AI-powered software that users love, trusted by funded startups worldwide**
+We are MTechZilla, an offshore software development company helping startups and product teams build custom software products or extend their existing engineering team - without the cost and delays of local hiring.
 
-We're a team of passionate engineers, designers, qas and pms who turn startup ideas into scalable, market-ready applications. Since 2021, we've shipped products used by **1M+ people** and helped our clients raise **$10M+ in funding**.
+Over the years, we've partnered with companies across the US and Europe to deliver 40+ products spanning web apps, mobile apps, AI-powered applications, cloud-native software on AWS, and legacy system modernization.
 
-## 🚀 What We Do
+Some of our clients include a Chicago-based hospitality startup (grew from a 2-person team to 40 people serving 700+ agencies), a Swiss EV infrastructure platform, and a Chicago-based short-term furnishing company.
 
-- 🌐 **Web Development** - React, Next.js, Node.js applications that scale
-- 📱 **Mobile Apps** - React Native (iOS, Android, and cross-platform solutions)  
-- 🤖 **AI Development** - Smart features that actually solve problems
-- ☁️ **Cloud Solutions** - AWS-powered infrastructure that grows with you
-- 🔄 **Legacy Modernization** - Breathing new life into existing systems
+Every developer we place is a pre-vetted senior engineer, fully aligned to your project, working in your timezone with a minimum 4-hour overlap. We run on agile sprints — biweekly demos, daily standups, transparent progress reporting. Your project kicks off within 7–14 days of signing. You own 100% of the code and product.
 
-## 🛠️ Tech Stack
+## Services
+- Web app development
+- Mobile app development (iOS & Android)
+- AI app development
+- Cloud app development (AWS)
+- Legacy modernization
+- UI/UX design
 
-**Frontend:** React • Next.js • TypeScript • Tailwind CSS • Figma  
-**Backend:** Node.js • Express • REST APIs  
-**Mobile:** React Native
-**Cloud:** AWS • Docker • Kubernetes • Serverless  
-**Database:** PostgreSQL • MongoDB • Redis • DynamoDB  
-**AI/ML:** TensorFlow • OpenAI • LangChain • Custom Models
+## Engagement Models
+- Software Development Outsourcing (full project delivery)
+- Dedicated Development Team
+- Hire Dedicated Developers (staff augmentation)
 
-## 🏭 Industries We Serve
+## Core Stack
+* React
+* Next.js
+* Node.js
+* React Native
+* OpenAI
+* Anthropic
+* Gemini
+* Supabase
+* Vercel
+* LangChain / Vercel AI SDK / AWS Bedrock
+* Stripe
+* Figma
+* AWS
 
-🌱 Renewable Energy • ✈️ Travel & Hospitality • ⚡ Electric Vehicles  
-🏠 Real Estate • 🛡️ Insurance • 📚 Education • 🏛️ Government
+## Industries Served
+* Travel & Hospitality
+* Electric Vehicles
+* Real Estate
+* Renewable Energy
+* Education
+* Insurance
 
-## 📊 By The Numbers
+## Recognition & Badges
+- AWS Tier Partner
+- 5-star rated on Clutch & GoodFirms (verified reviews)
+- Top Software Development Company 2026 — GoodFirms
+- Top Custom Software Development Company 2025 — MobileAppDaily
 
-- **95%** Project Success Rate
-- **4 weeks** To First Working MVO
-- **1 Week** Project Kickoff Time
-- **1M+** People Using Applications We Developed
+Whether you are building a new software product from scratch, extending your team with dedicated developers, or looking for reliable long-term development support, we have the services, engagement model and the right engineers for your stage.
 
-## 🤝 Work With Us
-
-Whether you need a dedicated engineering team, want to extend your development capacity, or have a specific technical challenge - we're here to help turn your vision into reality.
-
-**Ready to build something amazing?** 
-
-🌐 [mtechzilla.com](https://www.mtechzilla.com)  
-💼 [LinkedIn](https://in.linkedin.com/company/mtechzilla)  
-📧 sales@mtechzilla.com
-
----
-*From MVP to millions of users - we build the software that powers your growth* 🚀
+**[Get in touch →](https://www.mtechzilla.com/contact)**
