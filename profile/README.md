@@ -1,5 +1,3 @@
-# Software Development Company for Product & Engineering Teams
-
 We are MTechZilla, an offshore software development company helping startups and product teams build custom software products or extend their existing engineering team - without the cost and delays of local hiring.
 
 Over the years, we've partnered with companies across the US and Europe to deliver 40+ products spanning web apps, mobile apps, AI-powered applications, cloud-native software on AWS, and legacy system modernization.
